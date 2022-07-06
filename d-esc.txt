@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Added Version Check"}
+{"version":"1.0.1", "notes":"Fixed bug with randomly opening gta5 default menu."}
