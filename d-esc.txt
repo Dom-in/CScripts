@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Remade core code. Now error with driveing when map is open is fixed. Added code to js that allows people to control menu with Arrows Up/Down"}
+{"version":"1.0.2", "notes":"Remade core code. Now error with driving when map is open is fixed. Added code to js that allows people to control menu with Arrows Up/Down"}
