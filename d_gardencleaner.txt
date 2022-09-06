@@ -1,1 +1,4 @@
-{"version":"1.0.0", "notes":"Just released!"}
+{"version":"1.0.1", "notes":"Changelog:
+- Added support for old spawn car function in qbcore
+- Added SpawnBack in config (Teleports player back when user gives back the car)
+- Fixed update check"}
