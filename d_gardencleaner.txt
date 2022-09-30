@@ -1,4 +1,10 @@
 {"version":"1.0.1", "notes":"Changelog:
-- Added support for old spawn car function in qbcore
-- Added SpawnBack in config (Teleports player back when user gives back the car)
-- Fixed update check"}
+- Fixed bug with job saying you need to finish it first before starting again (Person had to relog to use the job again)
+- Added new sidejob with is blowing leafs from grass
+- Fixed clothes problem
+- Optimized the code (In Marker 0.05ms-0.06ms | No use: 0.00ms | Use away from markers 0.00ms-0.03ms) [Thx to Malizniak from 17mov]
+
+Tested on:
+Ryzen 5 3600 6-core
+Nvidia GeForce GTX 1660 6GB
+Samsung SSD 256GB "}
